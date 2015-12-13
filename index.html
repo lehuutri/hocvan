@@ -1,0 +1,27 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Học ghép vần</title> 
+    <script src="main.js"></script>
+    <style>
+        label {
+            color: green;
+            font-size: 40px;
+        }
+        div {
+            text-align: center;
+        }
+    </style>
+</head>
+<body onclick="set_sound()">
+    <div id=sound>
+        <label id="the_sound">some sound</label>
+    </div>
+    <script>
+        function set_sound() {
+            var the_sound  = document.getElementById("the_sound"); 
+            the_sound.textContent = random_sound()
+        }
+    </script>
+</body>
+</html>
