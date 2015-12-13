@@ -1,6 +1,6 @@
 all_sounds = [["a", "oa", "ac", "oac", "ach", "oach", "ai", "oai", "am", "oam", "an", "oan", "ang", "oang", "anh", "oanh", "ao", "ap", "at", "oat", "au", "ay", "oay"],
                 ["ă", "ăc", "oăc", "ăm", "oăm", "ăn", "oăn", "ăng", "ăp", "ăt", "oăt"],
-                ["â", "âc", "âm", "ân", "uân", "âng", "uâng", "âp", "uâp", "ât", "uât", "âu", "ây", "uây"],
+                ["â", "âc", "âm", "ân", "uân", "âng", "uâng", "âp", "ât", "uât", "âu", "ây", "uây"],
                 ["e", "oe", "ec", "em", "en", "oen", "eng", "oeng", "eo", "oeo", "ep", "et", "oet"],
                 ["ê", "uê", "êch", "êm", "ên", "ênh", "êp", "êt", "êu"],
                 ["i", "uy", "ia", "ich", "iêc", "iêm", "iên", "uyên", "iêng", "iêp", "iêt", "uyêt", "iêu", "im", "in", "inh", "uynh", "ip", "it", "uyt", "iu", "uyu"],
